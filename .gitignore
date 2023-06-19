@@ -1,3 +1,4 @@
 ## Ignore secrets file
 
 db-secret.yaml
+orders-secret.yaml
